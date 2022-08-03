@@ -1,5 +1,5 @@
 ## Keluarga Mahasiswa Nahdlatul Ulama (KMNU) Universitas Negeri Yogyakarta (UNY)
-GitHub Organisasi ini dikelola oleh [Tim CyberHub KMNU UNY](https://github.com/mujibluth) dibawah koordinasi dari [Departemen Media KMNU UNY](https://uny.kmnu.or.id). Beberapa layanan yang dikembangkan diantaranya yaitu : <br>
+GitHub Organisasi KMNU UNY ini dikelola oleh [Tim CyberHub KMNU UNY](https://github.com/mujibluth) dibawah koordinasi dari [Departemen Media KMNU UNY](https://uny.kmnu.or.id). Beberapa layanan yang dikembangkan diantaranya yaitu : <br>
 - 📑 Portal Berita 
 - 📡 Big Data Center
 - 🔐 Penyimpanan Tanpa Batas
